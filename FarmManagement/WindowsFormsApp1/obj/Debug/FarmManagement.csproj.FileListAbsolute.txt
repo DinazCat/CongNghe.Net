@@ -1,5 +1,0 @@
-D:\CN.NET\FarmManagement\WindowsFormsApp1\obj\Debug\FarmManagement.csproj.AssemblyReference.cache
-D:\CN.NET\FarmManagement\WindowsFormsApp1\obj\Debug\FarmManagement.csproj.SuggestedBindingRedirects.cache
-D:\CN.NET\FarmManagement\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
-D:\CN.NET\FarmManagement\WindowsFormsApp1\obj\Debug\FarmManagement.csproj.GenerateResource.cache
-D:\CN.NET\FarmManagement\WindowsFormsApp1\obj\Debug\FarmManagement.csproj.CoreCompileInputs.cache
