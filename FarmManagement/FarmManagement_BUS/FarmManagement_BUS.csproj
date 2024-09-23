@@ -48,8 +48,8 @@
     <WCFMetadata Include="Connected Services\" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\FarmManagement_DA\FarmManagement_DAL.csproj">
-      <Project>{f54ec798-f7ad-41d9-b8ca-6b4f9a305966}</Project>
+    <ProjectReference Include="..\FarmManagement_DAL\FarmManagement_DAL.csproj">
+      <Project>{07383a13-df1c-4673-b1f4-4765ccd6cad4}</Project>
       <Name>FarmManagement_DAL</Name>
     </ProjectReference>
     <ProjectReference Include="..\FarmManagement_DTO\FarmManagement_DTO.csproj">

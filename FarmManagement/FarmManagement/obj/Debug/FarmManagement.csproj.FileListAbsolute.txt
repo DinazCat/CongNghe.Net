@@ -2,10 +2,8 @@ D:\CN.NET\FarmManagement\FarmManagement\bin\Debug\FarmManagement.exe.config
 D:\CN.NET\FarmManagement\FarmManagement\bin\Debug\FarmManagement.exe
 D:\CN.NET\FarmManagement\FarmManagement\bin\Debug\FarmManagement.pdb
 D:\CN.NET\FarmManagement\FarmManagement\bin\Debug\FarmManagement_BUS.dll
-D:\CN.NET\FarmManagement\FarmManagement\bin\Debug\FarmManagement_DA.dll
 D:\CN.NET\FarmManagement\FarmManagement\bin\Debug\FarmManagement_DTO.dll
 D:\CN.NET\FarmManagement\FarmManagement\bin\Debug\FarmManagement_BUS.pdb
-D:\CN.NET\FarmManagement\FarmManagement\bin\Debug\FarmManagement_DA.pdb
 D:\CN.NET\FarmManagement\FarmManagement\bin\Debug\FarmManagement_DTO.pdb
 D:\CN.NET\FarmManagement\FarmManagement\obj\Debug\FarmManagement.csproj.AssemblyReference.cache
 D:\CN.NET\FarmManagement\FarmManagement\obj\Debug\FarmManagement.csproj.SuggestedBindingRedirects.cache
@@ -16,3 +14,5 @@ D:\CN.NET\FarmManagement\FarmManagement\obj\Debug\FarmManagement.csproj.CoreComp
 D:\CN.NET\FarmManagement\FarmManagement\obj\Debug\FarmManagement.csproj.CopyComplete
 D:\CN.NET\FarmManagement\FarmManagement\obj\Debug\FarmManagement.exe
 D:\CN.NET\FarmManagement\FarmManagement\obj\Debug\FarmManagement.pdb
+D:\CN.NET\FarmManagement\FarmManagement\bin\Debug\FarmManagement_DAL.dll
+D:\CN.NET\FarmManagement\FarmManagement\bin\Debug\FarmManagement_DAL.pdb

@@ -1,11 +1,11 @@
 D:\CN.NET\FarmManagement\FarmManagement_BUS\bin\Debug\FarmManagement_BUS.dll
 D:\CN.NET\FarmManagement\FarmManagement_BUS\bin\Debug\FarmManagement_BUS.pdb
-D:\CN.NET\FarmManagement\FarmManagement_BUS\bin\Debug\FarmManagement_DA.dll
 D:\CN.NET\FarmManagement\FarmManagement_BUS\bin\Debug\FarmManagement_DTO.dll
-D:\CN.NET\FarmManagement\FarmManagement_BUS\bin\Debug\FarmManagement_DA.pdb
 D:\CN.NET\FarmManagement\FarmManagement_BUS\bin\Debug\FarmManagement_DTO.pdb
 D:\CN.NET\FarmManagement\FarmManagement_BUS\obj\Debug\FarmManagement_BUS.csproj.AssemblyReference.cache
 D:\CN.NET\FarmManagement\FarmManagement_BUS\obj\Debug\FarmManagement_BUS.csproj.CoreCompileInputs.cache
 D:\CN.NET\FarmManagement\FarmManagement_BUS\obj\Debug\FarmManagement_BUS.csproj.CopyComplete
 D:\CN.NET\FarmManagement\FarmManagement_BUS\obj\Debug\FarmManagement_BUS.dll
 D:\CN.NET\FarmManagement\FarmManagement_BUS\obj\Debug\FarmManagement_BUS.pdb
+D:\CN.NET\FarmManagement\FarmManagement_BUS\bin\Debug\FarmManagement_DAL.dll
+D:\CN.NET\FarmManagement\FarmManagement_BUS\bin\Debug\FarmManagement_DAL.pdb
