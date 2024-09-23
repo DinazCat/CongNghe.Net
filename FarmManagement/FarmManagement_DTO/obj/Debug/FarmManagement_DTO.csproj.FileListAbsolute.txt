@@ -1,0 +1,6 @@
+D:\CN.NET\FarmManagement\FarmManagement_DTO\bin\Debug\FarmManagement_DTO.dll
+D:\CN.NET\FarmManagement\FarmManagement_DTO\bin\Debug\FarmManagement_DTO.pdb
+D:\CN.NET\FarmManagement\FarmManagement_DTO\obj\Debug\FarmManagement_DTO.csproj.AssemblyReference.cache
+D:\CN.NET\FarmManagement\FarmManagement_DTO\obj\Debug\FarmManagement_DTO.csproj.CoreCompileInputs.cache
+D:\CN.NET\FarmManagement\FarmManagement_DTO\obj\Debug\FarmManagement_DTO.dll
+D:\CN.NET\FarmManagement\FarmManagement_DTO\obj\Debug\FarmManagement_DTO.pdb
