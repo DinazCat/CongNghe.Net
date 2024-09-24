@@ -1,0 +1,262 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+img {
+    display: block;
+}
+
+/* Header Styles */
+.header {
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    padding: 10px 20px;
+    background-color: #f2f2f2;
+}
+
+
+.form1{
+    min-width:630px;
+    display:flex;
+    justify-content:end;
+}
+.form1 div {
+    height: 40px;
+    width: 500px;
+    border: 1px solid #e9ecef;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.form1 div input {
+    border-top-style: hidden;
+    border-right-style: hidden;
+    border-left-style: hidden;
+    border-bottom-style: hidden;
+    width: 450px;
+}
+.searchbtn {
+    border: none;
+    background-color: inherit;
+    padding:4px 2px;
+    display:inline
+}
+.searchbtn i {
+    width: 25px;
+    height: 25px
+}
+.gr_btn{
+    margin-left:155px;
+}
+.gr_btn button {
+    background-color: inherit;
+    border: none;
+    width: 25px;
+    height: 25px;
+}
+.header img {
+    height: 50px;
+}
+
+.header input {
+    width: 300px;
+    padding: 5px;
+    margin-left: 20px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+/* Navigation Styles */
+.nav {
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    background-color: #2fa1b3;
+    padding: 10px 0;
+}
+
+.nav_btn {
+    background-color: #2fa1b3;
+    color: #ffffff;
+    padding: 10px 10px;
+    font-weight:500;
+    font-size:15px;
+    border: none;
+    border-left: 0.2px solid #fff3;
+}
+.nav_btn1 {
+    background-color: #2fa1b3;
+    color: #ffffff;
+    font-size: 13px;
+    padding: 2px 2px;
+    border: 0.2px solid #fff3;
+    border-radius: 10px 10px;
+    margin-left: 6px;
+    padding: 1px 7px;
+}
+.nav_btn2 {
+    background-color: #2b94a5;
+    color: #ffffff;
+    padding: 6px 10px;
+    margin-left: 240px;
+    border: none;
+    border-left: 0.2px solid #fff3;
+    border-right: 0.2px solid #fff3;
+}
+
+.nav_btn2 i {
+    font-size: 24px;
+}
+
+/* Main Content Styles */
+.container {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 150px;
+}
+
+.col-7 {
+    width: 70%;
+}
+
+.col-3 {
+    width: 25%;
+}
+
+.main-img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+.main-title {
+    font-size: 28px;
+    font-weight: bold;
+    display: block;
+    margin-top: 10px;
+}
+
+.author {
+    display: flex;
+    align-items: center;
+}
+
+.author-img {
+    width: 60px;
+    height: 20px;
+}
+
+.graytxt {
+    color: gray;
+    margin-left: 5px;
+    font-size: 15px;
+}
+
+/* News Item Styles */
+.row-item {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.item {
+    width: 30%;
+}
+
+.item-img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+.item-title {
+    font-size: 16px;
+    font-weight: normal;
+    margin-top: 10px;
+    display: block;
+}
+
+.news-item {
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.news-img {
+    width: 160px;
+    height: auto;
+}
+
+.news-img-small {
+    width: 70px;
+    height: 70px;
+    border-radius: 2px;
+}
+
+.news-content {
+    margin-left: 10px;
+}
+
+.news-title {
+    font-size: 18px;
+    font-weight: normal;
+}
+
+.news-title-small {
+    font-size: 15px;
+}
+
+.section-title {
+    font-size: 20px;
+    font-weight: bold;
+    color: #ff6600;
+    margin-top: 30px;
+}
+
+.partner-section {
+    background-image: url('https://baomoi-static.bmcdn.me/web/styles/img/pls-bg-1.png');
+    background-repeat: no-repeat;
+    padding: 10px 20px;
+}
+
+.partner-section p {
+    font-size: 13px;
+}
+
+/* Keyframe for animation */
+@keyframes slideItems {
+    0% {
+        transform: translateX(100%);
+    }
+    100% {
+        transform: translateX(-100%);
+    }
+}
+
+/* Scrolling content */
+.scroll-content {
+    display: flex;
+    animation: slideItems 10s linear infinite;
+    width: 200px;
+}
+
+.info-section {
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #f7f7f7;
+}
+
+.government-info ul li::marker {
+    color: red;
+}
+
+.local-news {
+    background-image: url('https://baomoi-static.bmcdn.me/web/styles/img/global-map.png');
+    background-repeat: no-repeat;
+    padding: 20px;
+    margin-top: 20px;
+}
