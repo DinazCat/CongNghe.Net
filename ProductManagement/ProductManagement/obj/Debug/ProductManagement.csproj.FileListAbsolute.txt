@@ -1,0 +1,11 @@
+D:\CN.NET\ProductManagement\ProductManagement\obj\Debug\ProductManagement.csproj.AssemblyReference.cache
+D:\CN.NET\ProductManagement\ProductManagement\obj\Debug\ProductManagement.csproj.SuggestedBindingRedirects.cache
+D:\CN.NET\ProductManagement\ProductManagement\obj\Debug\ProductManagement.Form1.resources
+D:\CN.NET\ProductManagement\ProductManagement\obj\Debug\ProductManagement.Properties.Resources.resources
+D:\CN.NET\ProductManagement\ProductManagement\obj\Debug\ProductManagement.csproj.GenerateResource.cache
+D:\CN.NET\ProductManagement\ProductManagement\obj\Debug\ProductManagement.csproj.CoreCompileInputs.cache
+D:\CN.NET\ProductManagement\ProductManagement\bin\Debug\ProductManagement.exe.config
+D:\CN.NET\ProductManagement\ProductManagement\bin\Debug\ProductManagement.exe
+D:\CN.NET\ProductManagement\ProductManagement\bin\Debug\ProductManagement.pdb
+D:\CN.NET\ProductManagement\ProductManagement\obj\Debug\ProductManagement.exe
+D:\CN.NET\ProductManagement\ProductManagement\obj\Debug\ProductManagement.pdb
