@@ -2110,7 +2110,7 @@
 
   function getLayoutRect(element) {
     var clientRect = getBoundingClientRect(element); // Use the clientRect sizes if it's not been transformed.
-    // Fixes https://github.com/popperjs/popper-core/issues/1223
+    // Fixes https://github.com/popper../LayoutColoshop/../LayoutColoshop/../../LayoutAdmin/js/popper-core/issues/1223
 
     var width = element.offsetWidth;
     var height = element.offsetHeight;
@@ -2186,7 +2186,7 @@
   }
 
   function getTrueOffsetParent(element) {
-    if (!isHTMLElement(element) || // https://github.com/popperjs/popper-core/issues/837
+    if (!isHTMLElement(element) || // https://github.com/popper../LayoutColoshop/../LayoutColoshop/../../LayoutAdmin/js/popper-core/issues/837
     getComputedStyle$1(element).position === 'fixed') {
       return null;
     }
@@ -2214,7 +2214,7 @@
     while (isHTMLElement(currentNode) && ['html', 'body'].indexOf(getNodeName(currentNode)) < 0) {
       var css = getComputedStyle$1(currentNode); // This is non-exhaustive but covers the most common CSS properties that
       // create a containing block.
-      // https://developer.mozilla.org/en-US/docs/Web/CSS/Containing_block#identifying_the_containing_block
+      // https://developer.mozilla.org/en-US/docs/Web/../../LayoutAdmin/css/Containing_block#identifying_the_containing_block
 
       if (css.transform !== 'none' || css.perspective !== 'none' || css.contain === 'paint' || ['transform', 'perspective'].indexOf(css.willChange) !== -1 || isFirefox && css.willChange === 'filter' || isFirefox && css.filter && css.filter !== 'none') {
         return currentNode;
@@ -3358,7 +3358,7 @@
     };
 
     if (isOffsetParentAnElement || !isOffsetParentAnElement && !isFixed) {
-      if (getNodeName(offsetParent) !== 'body' || // https://github.com/popperjs/popper-core/issues/1078
+      if (getNodeName(offsetParent) !== 'body' || // https://github.com/popper../LayoutColoshop/../LayoutColoshop/../../LayoutAdmin/js/popper-core/issues/1078
       isScrollParent(documentElement)) {
         scroll = getNodeScroll(offsetParent);
       }
