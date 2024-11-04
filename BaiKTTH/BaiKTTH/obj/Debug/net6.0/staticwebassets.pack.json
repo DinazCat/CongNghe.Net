@@ -1,0 +1,1089 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BaiKTTH.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BaiKTTH.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutAdmin\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutAdmin\\css\\style.css",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\css\\style.css"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutAdmin\\img\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\img\\testimonial-1.jpg"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutAdmin\\img\\testimonial-2.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\img\\testimonial-2.jpg"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutAdmin\\img\\user.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\img\\user.jpg"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutAdmin\\js\\main.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\js\\main.js"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutAdmin\\lib\\chart\\chart.min.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\lib\\chart\\chart.min.js"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutAdmin\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutAdmin\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutAdmin\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\lib\\owlcarousel"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutAdmin\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutAdmin\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutAdmin\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutAdmin\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutAdmin\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutAdmin\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutAdmin\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutAdmin\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutAdmin\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutAdmin\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutAdmin\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutAdmin\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutAdmin\\lib\\tempusdominus\\js\\moment-timezone.min.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\lib\\tempusdominus\\js\\moment-timezone.min.js"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutAdmin\\lib\\tempusdominus\\js\\moment.min.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\lib\\tempusdominus\\js\\moment.min.js"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutAdmin\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutAdmin\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutAdmin\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutAdmin\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutAdmin\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\_accordion.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\_accordion.scss"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\_containers.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\_containers.scss"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\_helpers.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\_helpers.scss"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\_offcanvas.scss"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\forms\\_labels.scss"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\forms\\_validation.scss"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\helpers\\_position.scss"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_container.scss"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\utilities\\_api.scss"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutAdmin\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutColoshop\\images\\banner_1.jpg",
+      "PackagePath": "staticwebassets\\LayoutColoshop\\images\\banner_1.jpg"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutColoshop\\images\\banner_2.jpg",
+      "PackagePath": "staticwebassets\\LayoutColoshop\\images\\banner_2.jpg"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutColoshop\\images\\banner_3.jpg",
+      "PackagePath": "staticwebassets\\LayoutColoshop\\images\\banner_3.jpg"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutColoshop\\images\\blog_1.jpg",
+      "PackagePath": "staticwebassets\\LayoutColoshop\\images\\blog_1.jpg"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutColoshop\\images\\blog_2.jpg",
+      "PackagePath": "staticwebassets\\LayoutColoshop\\images\\blog_2.jpg"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutColoshop\\images\\blog_3.jpg",
+      "PackagePath": "staticwebassets\\LayoutColoshop\\images\\blog_3.jpg"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutColoshop\\images\\deal_ofthe_week.png",
+      "PackagePath": "staticwebassets\\LayoutColoshop\\images\\deal_ofthe_week.png"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutColoshop\\images\\desc_1.jpg",
+      "PackagePath": "staticwebassets\\LayoutColoshop\\images\\desc_1.jpg"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutColoshop\\images\\desc_2.jpg",
+      "PackagePath": "staticwebassets\\LayoutColoshop\\images\\desc_2.jpg"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutColoshop\\images\\desc_3.jpg",
+      "PackagePath": "staticwebassets\\LayoutColoshop\\images\\desc_3.jpg"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutColoshop\\images\\map_marker.png",
+      "PackagePath": "staticwebassets\\LayoutColoshop\\images\\map_marker.png"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutColoshop\\images\\product_1.png",
+      "PackagePath": "staticwebassets\\LayoutColoshop\\images\\product_1.png"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutColoshop\\images\\product_10.png",
+      "PackagePath": "staticwebassets\\LayoutColoshop\\images\\product_10.png"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutColoshop\\images\\product_2.png",
+      "PackagePath": "staticwebassets\\LayoutColoshop\\images\\product_2.png"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutColoshop\\images\\product_3.png",
+      "PackagePath": "staticwebassets\\LayoutColoshop\\images\\product_3.png"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutColoshop\\images\\product_4.png",
+      "PackagePath": "staticwebassets\\LayoutColoshop\\images\\product_4.png"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutColoshop\\images\\product_5.png",
+      "PackagePath": "staticwebassets\\LayoutColoshop\\images\\product_5.png"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutColoshop\\images\\product_6.png",
+      "PackagePath": "staticwebassets\\LayoutColoshop\\images\\product_6.png"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutColoshop\\images\\product_7.png",
+      "PackagePath": "staticwebassets\\LayoutColoshop\\images\\product_7.png"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutColoshop\\images\\product_8.png",
+      "PackagePath": "staticwebassets\\LayoutColoshop\\images\\product_8.png"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutColoshop\\images\\product_9.png",
+      "PackagePath": "staticwebassets\\LayoutColoshop\\images\\product_9.png"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutColoshop\\images\\single_1.jpg",
+      "PackagePath": "staticwebassets\\LayoutColoshop\\images\\single_1.jpg"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutColoshop\\images\\single_1_thumb.jpg",
+      "PackagePath": "staticwebassets\\LayoutColoshop\\images\\single_1_thumb.jpg"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutColoshop\\images\\single_2.jpg",
+      "PackagePath": "staticwebassets\\LayoutColoshop\\images\\single_2.jpg"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutColoshop\\images\\single_2_thumb.jpg",
+      "PackagePath": "staticwebassets\\LayoutColoshop\\images\\single_2_thumb.jpg"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutColoshop\\images\\single_3.jpg",
+      "PackagePath": "staticwebassets\\LayoutColoshop\\images\\single_3.jpg"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutColoshop\\images\\single_3_thumb.jpg",
+      "PackagePath": "staticwebassets\\LayoutColoshop\\images\\single_3_thumb.jpg"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutColoshop\\images\\slider_1.jpg",
+      "PackagePath": "staticwebassets\\LayoutColoshop\\images\\slider_1.jpg"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutColoshop\\js\\categories_custom.js",
+      "PackagePath": "staticwebassets\\LayoutColoshop\\js\\categories_custom.js"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutColoshop\\js\\contact_custom.js",
+      "PackagePath": "staticwebassets\\LayoutColoshop\\js\\contact_custom.js"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutColoshop\\js\\custom.js",
+      "PackagePath": "staticwebassets\\LayoutColoshop\\js\\custom.js"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutColoshop\\js\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\LayoutColoshop\\js\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutColoshop\\js\\single_custom.js",
+      "PackagePath": "staticwebassets\\LayoutColoshop\\js\\single_custom.js"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutColoshop\\plugins\\Isotope\\isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets\\LayoutColoshop\\plugins\\Isotope\\isotope.pkgd.min.js"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutColoshop\\plugins\\OwlCarousel2-2.2.1\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\LayoutColoshop\\plugins\\OwlCarousel2-2.2.1\\ajax-loader.gif"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutColoshop\\plugins\\OwlCarousel2-2.2.1\\animate.css",
+      "PackagePath": "staticwebassets\\LayoutColoshop\\plugins\\OwlCarousel2-2.2.1\\animate.css"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutColoshop\\plugins\\OwlCarousel2-2.2.1\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\LayoutColoshop\\plugins\\OwlCarousel2-2.2.1\\owl.carousel.css"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutColoshop\\plugins\\OwlCarousel2-2.2.1\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\LayoutColoshop\\plugins\\OwlCarousel2-2.2.1\\owl.carousel.js"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutColoshop\\plugins\\OwlCarousel2-2.2.1\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\LayoutColoshop\\plugins\\OwlCarousel2-2.2.1\\owl.theme.default.css"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutColoshop\\plugins\\OwlCarousel2-2.2.1\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\LayoutColoshop\\plugins\\OwlCarousel2-2.2.1\\owl.video.play.png"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutColoshop\\plugins\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\LayoutColoshop\\plugins\\easing\\easing.js"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutColoshop\\plugins\\font-awesome-4.7.0\\HELP-US-OUT.txt",
+      "PackagePath": "staticwebassets\\LayoutColoshop\\plugins\\font-awesome-4.7.0\\HELP-US-OUT.txt"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutColoshop\\plugins\\font-awesome-4.7.0\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\LayoutColoshop\\plugins\\font-awesome-4.7.0\\css\\font-awesome.css"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutColoshop\\plugins\\font-awesome-4.7.0\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\LayoutColoshop\\plugins\\font-awesome-4.7.0\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutColoshop\\plugins\\font-awesome-4.7.0\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\LayoutColoshop\\plugins\\font-awesome-4.7.0\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutColoshop\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\LayoutColoshop\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutColoshop\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\LayoutColoshop\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutColoshop\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\LayoutColoshop\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutColoshop\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\LayoutColoshop\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutColoshop\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\LayoutColoshop\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutColoshop\\plugins\\font-awesome-4.7.0\\less\\animated.less",
+      "PackagePath": "staticwebassets\\LayoutColoshop\\plugins\\font-awesome-4.7.0\\less\\animated.less"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutColoshop\\plugins\\font-awesome-4.7.0\\less\\bordered-pulled.less",
+      "PackagePath": "staticwebassets\\LayoutColoshop\\plugins\\font-awesome-4.7.0\\less\\bordered-pulled.less"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutColoshop\\plugins\\font-awesome-4.7.0\\less\\core.less",
+      "PackagePath": "staticwebassets\\LayoutColoshop\\plugins\\font-awesome-4.7.0\\less\\core.less"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutColoshop\\plugins\\font-awesome-4.7.0\\less\\fixed-width.less",
+      "PackagePath": "staticwebassets\\LayoutColoshop\\plugins\\font-awesome-4.7.0\\less\\fixed-width.less"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutColoshop\\plugins\\font-awesome-4.7.0\\less\\font-awesome.less",
+      "PackagePath": "staticwebassets\\LayoutColoshop\\plugins\\font-awesome-4.7.0\\less\\font-awesome.less"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutColoshop\\plugins\\font-awesome-4.7.0\\less\\icons.less",
+      "PackagePath": "staticwebassets\\LayoutColoshop\\plugins\\font-awesome-4.7.0\\less\\icons.less"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutColoshop\\plugins\\font-awesome-4.7.0\\less\\larger.less",
+      "PackagePath": "staticwebassets\\LayoutColoshop\\plugins\\font-awesome-4.7.0\\less\\larger.less"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutColoshop\\plugins\\font-awesome-4.7.0\\less\\list.less",
+      "PackagePath": "staticwebassets\\LayoutColoshop\\plugins\\font-awesome-4.7.0\\less\\list.less"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutColoshop\\plugins\\font-awesome-4.7.0\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\LayoutColoshop\\plugins\\font-awesome-4.7.0\\less\\mixins.less"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutColoshop\\plugins\\font-awesome-4.7.0\\less\\path.less",
+      "PackagePath": "staticwebassets\\LayoutColoshop\\plugins\\font-awesome-4.7.0\\less\\path.less"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutColoshop\\plugins\\font-awesome-4.7.0\\less\\rotated-flipped.less",
+      "PackagePath": "staticwebassets\\LayoutColoshop\\plugins\\font-awesome-4.7.0\\less\\rotated-flipped.less"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutColoshop\\plugins\\font-awesome-4.7.0\\less\\screen-reader.less",
+      "PackagePath": "staticwebassets\\LayoutColoshop\\plugins\\font-awesome-4.7.0\\less\\screen-reader.less"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutColoshop\\plugins\\font-awesome-4.7.0\\less\\stacked.less",
+      "PackagePath": "staticwebassets\\LayoutColoshop\\plugins\\font-awesome-4.7.0\\less\\stacked.less"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutColoshop\\plugins\\font-awesome-4.7.0\\less\\variables.less",
+      "PackagePath": "staticwebassets\\LayoutColoshop\\plugins\\font-awesome-4.7.0\\less\\variables.less"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutColoshop\\plugins\\font-awesome-4.7.0\\scss\\_animated.scss",
+      "PackagePath": "staticwebassets\\LayoutColoshop\\plugins\\font-awesome-4.7.0\\scss\\_animated.scss"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutColoshop\\plugins\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\LayoutColoshop\\plugins\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutColoshop\\plugins\\font-awesome-4.7.0\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\LayoutColoshop\\plugins\\font-awesome-4.7.0\\scss\\_core.scss"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutColoshop\\plugins\\font-awesome-4.7.0\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\LayoutColoshop\\plugins\\font-awesome-4.7.0\\scss\\_fixed-width.scss"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutColoshop\\plugins\\font-awesome-4.7.0\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\LayoutColoshop\\plugins\\font-awesome-4.7.0\\scss\\_icons.scss"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutColoshop\\plugins\\font-awesome-4.7.0\\scss\\_larger.scss",
+      "PackagePath": "staticwebassets\\LayoutColoshop\\plugins\\font-awesome-4.7.0\\scss\\_larger.scss"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutColoshop\\plugins\\font-awesome-4.7.0\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\LayoutColoshop\\plugins\\font-awesome-4.7.0\\scss\\_list.scss"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutColoshop\\plugins\\font-awesome-4.7.0\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\LayoutColoshop\\plugins\\font-awesome-4.7.0\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutColoshop\\plugins\\font-awesome-4.7.0\\scss\\_path.scss",
+      "PackagePath": "staticwebassets\\LayoutColoshop\\plugins\\font-awesome-4.7.0\\scss\\_path.scss"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutColoshop\\plugins\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\LayoutColoshop\\plugins\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutColoshop\\plugins\\font-awesome-4.7.0\\scss\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\LayoutColoshop\\plugins\\font-awesome-4.7.0\\scss\\_screen-reader.scss"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutColoshop\\plugins\\font-awesome-4.7.0\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\LayoutColoshop\\plugins\\font-awesome-4.7.0\\scss\\_stacked.scss"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutColoshop\\plugins\\font-awesome-4.7.0\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\LayoutColoshop\\plugins\\font-awesome-4.7.0\\scss\\_variables.scss"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutColoshop\\plugins\\font-awesome-4.7.0\\scss\\font-awesome.scss",
+      "PackagePath": "staticwebassets\\LayoutColoshop\\plugins\\font-awesome-4.7.0\\scss\\font-awesome.scss"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutColoshop\\plugins\\jquery-ui-1.12.1.custom\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\LayoutColoshop\\plugins\\jquery-ui-1.12.1.custom\\jquery-ui.css"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutColoshop\\plugins\\jquery-ui-1.12.1.custom\\jquery-ui.js",
+      "PackagePath": "staticwebassets\\LayoutColoshop\\plugins\\jquery-ui-1.12.1.custom\\jquery-ui.js"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutColoshop\\plugins\\themify-icons\\fonts\\themify.eot",
+      "PackagePath": "staticwebassets\\LayoutColoshop\\plugins\\themify-icons\\fonts\\themify.eot"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutColoshop\\plugins\\themify-icons\\fonts\\themify.svg",
+      "PackagePath": "staticwebassets\\LayoutColoshop\\plugins\\themify-icons\\fonts\\themify.svg"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutColoshop\\plugins\\themify-icons\\fonts\\themify.ttf",
+      "PackagePath": "staticwebassets\\LayoutColoshop\\plugins\\themify-icons\\fonts\\themify.ttf"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutColoshop\\plugins\\themify-icons\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\LayoutColoshop\\plugins\\themify-icons\\fonts\\themify.woff"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutColoshop\\plugins\\themify-icons\\themify-icons.css",
+      "PackagePath": "staticwebassets\\LayoutColoshop\\plugins\\themify-icons\\themify-icons.css"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutColoshop\\styles\\bootstrap4\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\LayoutColoshop\\styles\\bootstrap4\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutColoshop\\styles\\bootstrap4\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\LayoutColoshop\\styles\\bootstrap4\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutColoshop\\styles\\bootstrap4\\popper.js",
+      "PackagePath": "staticwebassets\\LayoutColoshop\\styles\\bootstrap4\\popper.js"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutColoshop\\styles\\categories_responsive.css",
+      "PackagePath": "staticwebassets\\LayoutColoshop\\styles\\categories_responsive.css"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutColoshop\\styles\\categories_styles.css",
+      "PackagePath": "staticwebassets\\LayoutColoshop\\styles\\categories_styles.css"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutColoshop\\styles\\contact_responsive.css",
+      "PackagePath": "staticwebassets\\LayoutColoshop\\styles\\contact_responsive.css"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutColoshop\\styles\\contact_styles.css",
+      "PackagePath": "staticwebassets\\LayoutColoshop\\styles\\contact_styles.css"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutColoshop\\styles\\main_styles.css",
+      "PackagePath": "staticwebassets\\LayoutColoshop\\styles\\main_styles.css"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutColoshop\\styles\\responsive.css",
+      "PackagePath": "staticwebassets\\LayoutColoshop\\styles\\responsive.css"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutColoshop\\styles\\single_responsive.css",
+      "PackagePath": "staticwebassets\\LayoutColoshop\\styles\\single_responsive.css"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\LayoutColoshop\\styles\\single_styles.css",
+      "PackagePath": "staticwebassets\\LayoutColoshop\\styles\\single_styles.css"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\CN.NET\\BaiKTTH\\BaiKTTH\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.BaiKTTH.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.BaiKTTH.props",
+      "PackagePath": "build\\BaiKTTH.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.BaiKTTH.props",
+      "PackagePath": "buildMultiTargeting\\BaiKTTH.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.BaiKTTH.props",
+      "PackagePath": "buildTransitive\\BaiKTTH.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
